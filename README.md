@@ -6,4 +6,4 @@ prompts
 chattemplates
 Runnable 
 Structured Output 
-Prompts  by  using the langchain framework
+Prompts
