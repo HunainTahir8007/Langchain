@@ -3,7 +3,7 @@ chains
 Agents 
 Tools 
 prompts
-chattemplates
+ChatPrompts templates
 Runnable 
 Structured Output 
 Prompts
