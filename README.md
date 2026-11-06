@@ -10,3 +10,4 @@ Prompts
 chatmodels
 embeeding models
 ChatModels
+Hugging face models
